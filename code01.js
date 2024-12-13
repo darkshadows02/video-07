@@ -21,3 +21,5 @@ function multiplyFn(x, y){
       return x*y;
 }
 console.log(multiplyFn(1000, 3000));
+
+ 
